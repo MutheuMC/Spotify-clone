@@ -22,3 +22,12 @@ Key Features:
 - Handling relations between Server and Child components in a real-time environment
 - Cancelling Stripe subscriptions
 
+#how to install
+npm i
+
+
+run 'database.sql' file for the database
+
+#to run the project
+npm run dev
+
